@@ -39,6 +39,7 @@ If you want to add this functionality (because... you love dup tabs?), add `open
 - responsive 12x12 CSS grid in `main`
 - custom hook to get window size and estimate if device is mobile
 - basic Jest / Enzyme test setup and tests for existing code
+- SEO component powered by react-helmet
 
 ## License
 Go wild, I'd love to know what you've built though so keep me in the loop! \
