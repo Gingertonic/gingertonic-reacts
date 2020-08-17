@@ -8,9 +8,11 @@ Starting a new React project? Great!
 
 You're very welcome to start here! This is a boilerplate plus a bit, laid out the way I like it - your mileage may vary greatly!
 
-## Usage
-- `git clone git@github.com:Gingertonic/gingertonic-reacts.git`
-- `cd gingertonic-reacts`
+## Setup
+- Click the friendly, green 'Use this template' button to your top right
+- Follow the prompts to create a new repository
+- Clone down your new repo
+- `cd <your-repo-name>`
 - `npm install`
 
 ![Drake Approves](https://res.cloudinary.com/gingertonic/image/upload/v1597696654/GTS/drake-hotline-bling_gingertonic-reacts.png)
