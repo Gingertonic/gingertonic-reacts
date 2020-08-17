@@ -1,0 +1,5 @@
+.gallery-image {
+    object-fit: cover;
+    width: inherit;
+    height: inherit;
+}

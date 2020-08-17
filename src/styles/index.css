@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Permanent+Marker&display=swap');
+
+:root {
+    --primary: #FFFFFF;
+    --secondary: #104549;
+    --accent:   #EF8A17;
+    --text-primary: var(--secondary);
+    --text-secondary: var(--primary);
+    --text-accent:  #C5283D;
+    --font-primary: 'Montserrat', sans-serif;
+    --font-accent: 'Permanent Marker', cursive;;
+    --opacity: rgba(255,255,255,0.4);
+}
+
+* { box-sizing: border-box; }
+
+html, body { 
+    height: 100%;
+    margin: 0;
+    font-family: var(--font-primary);
+}
+
+a { text-decoration: none; }

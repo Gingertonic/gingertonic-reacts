@@ -1,0 +1,22 @@
+footer {
+    background-color: var(--accent);
+    display: flex;
+    color: var(--text-secondary);
+    justify-content: center;
+    position: fixed;
+    bottom: 0;
+    width: 100vw;
+    height: 5vh;
+}
+
+#contact {
+    padding: 0 50px;
+    display: inherit;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: var(--opacity);
+}
+
+a { color: var(--opacity); }
+a:hover { color: var(--text-secondary); }
+
