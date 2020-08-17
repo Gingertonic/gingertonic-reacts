@@ -4,9 +4,10 @@ import SEO from '../SEO';
 import './style.css';
 
 export default () => {
-    const placeholder = "http://lorempixel.com/800/800"
-    const images = new Array(6).fill(placeholder);
-    const renderImages = images.map((url, i) => <div key={i} className="grid col-4 row-6" ><img className="gallery-image" src={url}/></div>)
+    const placeholder = "https://cataas.com/cat/gif";
+
+    const images = new Array(36).fill(placeholder);
+    const renderImages = images.map((url, i) => <div key={i} className="grid col-2 row-2" ><img className="gallery-image" src={url}/></div>)
     
     return (
         <>
